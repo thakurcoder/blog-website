@@ -1,0 +1,89 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+   
+  
+}
+h1{
+    margin: 1% 10% 1% 10%;
+}
+div{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#box{
+    margin: 0;
+    background-color: rgb(93, 97, 97);
+    
+}
+#logo{
+    font-size: 50px;
+    float: left;
+}
+#logo p{
+    margin: 0;
+}
+#left{
+    float: right;
+    padding: 20px 56px;
+
+    text-decoration: none;
+  
+    font-size: 30px;
+
+}
+a{
+    margin-left: 1vw;
+    margin-right: 1vw;
+    color: #fff;
+}
+a:hover{
+    color: rgb(106, 240, 216);
+}
+
+p{
+    margin: 1% 10% 1% 10%;
+    
+}
+
+footer{
+    background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      float: bottom;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+}
+footer p{
+    margin: 0;
+}
+.compose label{
+    font-size: 20px;
+    margin-left: 10%;
+}
+.compose input{
+    height: 30px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+
+}
+.compose textarea{
+    display: block;
+    margin-left: 10%;
+    width: 80%;
+}
+.compose button{
+    margin-left: 10%;
+    margin-top: 15px;
+    height: 25PX;
+    width: 75px;
+    border: #fff;
+    border-radius: 20%;
+    background-color: rgb(100, 100, 212);
+}
